@@ -61,3 +61,12 @@ A modern and responsive blog built with a clean layout, dark/light mode toggle, 
 ---
 
 > This project is a work in progress. Contributions, feedback, and ideas are always welcome!
+
+
+
+
+
+
+
+
+<img width="1305" height="590" alt="Image" src="https://github.com/user-attachments/assets/82faa0c1-8331-41c9-905c-f85ecb2925b8" />
